@@ -58,6 +58,5 @@ current_focus = {
 ---
 
 *"Data tells stories. I help them create impact."* 💫<!--
-**hasnain1669/hasnain1669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+✨ **hasnain1669/hasnain1669** ✨
 -->

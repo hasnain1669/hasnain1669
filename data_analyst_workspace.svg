@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f0f4f8"/>
+  
+  <!-- Floor -->
+  <rect x="0" y="400" width="800" height="100" fill="#d0d8e0"/>
+  
+  <!-- Wall -->
+  <rect x="0" y="0" width="800" height="400" fill="#e8eef5"/>
+  
+  <!-- Desk -->
+  <rect x="100" y="320" width="400" height="20" fill="#8b6f47" rx="2"/>
+  <rect x="120" y="340" width="10" height="60" fill="#7a5f3a"/>
+  <rect x="470" y="340" width="10" height="60" fill="#7a5f3a"/>
+  
+  <!-- Chair -->
+  <ellipse cx="250" cy="340" rx="40" ry="15" fill="#4a5568"/>
+  <rect x="245" y="310" width="10" height="30" fill="#4a5568"/>
+  <rect x="230" y="300" width="40" height="20" fill="#4a5568" rx="5"/>
+  <rect x="245" y="340" width="10" height="40" fill="#3a4558"/>
+  
+  <!-- Person sitting -->
+  <!-- Legs -->
+  <rect x="235" y="300" width="12" height="40" fill="#2d3748"/>
+  <rect x="253" y="300" width="12" height="40" fill="#2d3748"/>
+  
+  <!-- Body -->
+  <rect x="230" y="260" width="40" height="50" fill="#4299e1" rx="5"/>
+  
+  <!-- Arms -->
+  <rect x="220" y="270" width="40" height="12" fill="#4299e1" rx="3" transform="rotate(-20 240 276)"/>
+  <rect x="240" y="270" width="40" height="12" fill="#4299e1" rx="3" transform="rotate(20 260 276)"/>
+  
+  <!-- Head -->
+  <circle cx="250" cy="245" r="18" fill="#fbbf77"/>
+  
+  <!-- Hair -->
+  <path d="M 232 240 Q 250 225 268 240" fill="#2d3748"/>
+  
+  <!-- Laptop on desk -->
+  <rect x="260" y="290" width="80" height="50" fill="#2d3748" rx="2"/>
+  <rect x="265" y="295" width="70" height="40" fill="#1a202c"/>
+  <rect x="268" y="298" width="64" height="34" fill="#3182ce"/>
+  
+  <!-- Laptop screen content (code) -->
+  <line x1="272" y1="305" x2="320" y2="305" stroke="#68d391" stroke-width="2"/>
+  <line x1="272" y1="312" x2="310" y2="312" stroke="#68d391" stroke-width="2"/>
+  <line x1="272" y1="319" x2="325" y2="319" stroke="#68d391" stroke-width="2"/>
+  
+  <!-- Big Screen on the right -->
+  <rect x="520" y="140" width="240" height="180" fill="#2d3748" rx="5"/>
+  <rect x="530" y="150" width="220" height="160" fill="#1a202c"/>
+  
+  <!-- Dashboard content on screen -->
+  <!-- Title bar -->
+  <rect x="535" y="155" width="210" height="20" fill="#3182ce"/>
+  <text x="640" y="168" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Analytics Dashboard</text>
+  
+  <!-- Chart 1 - Bar chart -->
+  <rect x="540" y="185" width="95" height="60" fill="#2d3748" stroke="#4299e1" stroke-width="1"/>
+  <rect x="550" y="220" width="12" height="20" fill="#48bb78"/>
+  <rect x="567" y="210" width="12" height="30" fill="#48bb78"/>
+  <rect x="584" y="200" width="12" height="40" fill="#48bb78"/>
+  <rect x="601" y="215" width="12" height="25" fill="#48bb78"/>
+  <rect x="618" y="205" width="12" height="35" fill="#48bb78"/>
+  
+  <!-- Chart 2 - Line chart -->
+  <rect x="645" y="185" width="95" height="60" fill="#2d3748" stroke="#4299e1" stroke-width="1"/>
+  <polyline points="655,230 670,215 685,220 700,205 715,210 730,200" 
+            stroke="#f6ad55" stroke-width="2" fill="none"/>
+  <polyline points="655,235 670,225 685,228 700,218 715,222 730,215" 
+            stroke="#9f7aea" stroke-width="2" fill="none"/>
+  
+  <!-- Metrics panels -->
+  <rect x="540" y="255" width="60" height="45" fill="#2d3748" stroke="#4299e1" stroke-width="1"/>
+  <text x="570" y="270" font-family="Arial, sans-serif" font-size="8" fill="#68d391" text-anchor="middle">Revenue</text>
+  <text x="570" y="285" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">$125K</text>
+  
+  <rect x="610" y="255" width="60" height="45" fill="#2d3748" stroke="#4299e1" stroke-width="1"/>
+  <text x="640" y="270" font-family="Arial, sans-serif" font-size="8" fill="#68d391" text-anchor="middle">Users</text>
+  <text x="640" y="285" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">15.2K</text>
+  
+  <rect x="680" y="255" width="60" height="45" fill="#2d3748" stroke="#4299e1" stroke-width="1"/>
+  <text x="710" y="270" font-family="Arial, sans-serif" font-size="8" fill="#68d391" text-anchor="middle">Growth</text>
+  <text x="710" y="285" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">+23%</text>
+  
+  <!-- Monitor stand -->
+  <rect x="630" y="320" width="20" height="40" fill="#4a5568"/>
+  <ellipse cx="640" cy="360" rx="50" ry="10" fill="#4a5568"/>
+  
+  <!-- Coffee mug on desk -->
+  <ellipse cx="180" cy="315" rx="12" ry="6" fill="#8b6f47"/>
+  <rect x="168" y="305" width="24" height="15" fill="#d97706" rx="2"/>
+  <path d="M 192 308 Q 200 310 192 312" stroke="#d97706" stroke-width="2" fill="none"/>
+  
+  <!-- Mouse -->
+  <ellipse cx="370" cy="315" rx="8" ry="12" fill="#4a5568"/>
+  
+  <!-- Notebook -->
+  <rect x="420" y="305" width="50" height="30" fill="#e2e8f0" stroke="#cbd5e0" stroke-width="1"/>
+  <line x1="430" y1="312" x2="460" y2="312" stroke="#a0aec0" stroke-width="1"/>
+  <line x1="430" y1="318" x2="460" y2="318" stroke="#a0aec0" stroke-width="1"/>
+  <line x1="430" y1="324" x2="455" y2="324" stroke="#a0aec0" stroke-width="1"/>
+  
+  <!-- Pen -->
+  <rect x="465" y="320" width="3" height="15" fill="#4299e1" transform="rotate(-30 466 327)"/>
+</svg>

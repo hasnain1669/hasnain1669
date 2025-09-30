@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="./data_analyst_workspace.svg" alt="Data Analyst at Work" width="800"/>
+</div>
+
 <!--
 **hasnain1669/hasnain1669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

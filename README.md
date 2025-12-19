@@ -2,7 +2,7 @@
 
 ### 🚀 Turning Data into Impact | Building Tomorrow's Sustainable Solutions
 
-🎓 **PhD-bound** researcher passionate about the intersection of technology and social good  
+🎓 **PhD-Aspirant** researcher passionate about the intersection of technology and social good  
 🌱 **Sustainable Entrepreneurship** advocate creating businesses that matter  
 💡 **Digital Innovation** enthusiast transforming ideas into real-world impact  
 📊 **Data Analyst** | **Kaggle Master** 🏆 wielding insights from complex datasets  
